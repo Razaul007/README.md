@@ -54,9 +54,7 @@
 
 ###
 
-<p align="left">⭐️ *Thank you for visiting my GitHub! Feel free to explore my repositories and connect with me.* 🚀</p>
 
-###
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Razaul007&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
@@ -64,3 +62,8 @@
 </div>
 
 ###
+<p align="left">⭐️ *Thank you for visiting my GitHub! Feel free to explore my repositories and connect with me.* 🚀</p>
+
+###
+
+
